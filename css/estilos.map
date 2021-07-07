@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "estilos.css",
+	"sources": [
+		"../scss/estilos.scss"
+	],
+	"sourcesContent": [
+		"@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300;1,500;1,700;1,800&display=swap');\r\n\r\nbody{\r\n\tbackground: url(../media/fondo.jpg);\r\n}\r\n.bgWhite{\r\n\tbackground-color: #1f1616;\r\n}\r\n.typerR{\r\n\tfont-family: 'Raleway', sans-serif;\r\n\tfont-weight: 500;\r\n\tcolor: #fff;\r\n}\r\nh1.typerR{\r\n\tfont-family: 'Raleway', sans-serif;\r\n\tfont-weight: 800;\r\n}\r\nh1{\r\n\ttext-align: center;\r\n}\r\n#navBar{\r\n\tbackground-color: gray;\r\n}\r\n.bg{\r\n\tbackground-color: #1f1616;\r\n}\r\n@media all and (max-width: 600px){\r\n\t.bg{\r\n\t\tbackground-color: #fff;\r\n\t}\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": "AAAA,OAAO,CAAC,sGAAI;;AAEZ,AAAA,IAAI,CAAA;EACH,UAAU,EAAE,uBAAuB;CACnC;;;AACD,AAAA,QAAQ,CAAA;EACP,gBAAgB,EAAE,OAAO;CACzB;;;AACD,AAAA,OAAO,CAAA;EACN,WAAW,EAAE,qBAAqB;EAClC,WAAW,EAAE,GAAG;EAChB,KAAK,EAAE,IAAI;CACX;;;AACD,AAAA,EAAE,AAAA,OAAO,CAAA;EACR,WAAW,EAAE,qBAAqB;EAClC,WAAW,EAAE,GAAG;CAChB;;;AACD,AAAA,EAAE,CAAA;EACD,UAAU,EAAE,MAAM;CAClB;;;AACD,AAAA,OAAO,CAAA;EACN,gBAAgB,EAAE,IAAI;CACtB;;;AACD,AAAA,GAAG,CAAA;EACF,gBAAgB,EAAE,OAAO;CACzB;;AACD,MAAM,CAAC,GAAG,MAAM,SAAS,EAAE,KAAK;;EAC/B,AAAA,GAAG,CAAA;IACF,gBAAgB,EAAE,IAAI;GACtB"
+}

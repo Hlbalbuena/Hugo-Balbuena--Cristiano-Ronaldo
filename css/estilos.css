@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300;1,500;1,700;1,800&display=swap");
+/* line 3, ../../Documents/CoderHouse/Bootstrap/scss/estilos.scss */
+body {
+  background: url(../media/fondo.jpg);
+}
+
+/* line 6, ../../Documents/CoderHouse/Bootstrap/scss/estilos.scss */
+.bgWhite {
+  background-color: #1f1616;
+}
+
+/* line 9, ../../Documents/CoderHouse/Bootstrap/scss/estilos.scss */
+.typerR {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  color: #fff;
+}
+
+/* line 14, ../../Documents/CoderHouse/Bootstrap/scss/estilos.scss */
+h1.typerR {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+}
+
+/* line 18, ../../Documents/CoderHouse/Bootstrap/scss/estilos.scss */
+h1 {
+  text-align: center;
+}
+
+/* line 21, ../../Documents/CoderHouse/Bootstrap/scss/estilos.scss */
+#navBar {
+  background-color: gray;
+}
+
+/* line 24, ../../Documents/CoderHouse/Bootstrap/scss/estilos.scss */
+.bg {
+  background-color: #1f1616;
+}
+
+@media all and (max-width: 600px) {
+  /* line 28, ../../Documents/CoderHouse/Bootstrap/scss/estilos.scss */
+  .bg {
+    background-color: #fff;
+  }
+}
+
+/*# sourceMappingURL=estilos.css.map */

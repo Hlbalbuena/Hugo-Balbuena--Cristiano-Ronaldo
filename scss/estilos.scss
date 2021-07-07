@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300;1,500;1,700;1,800&display=swap');
+
+body{
+	background: url(../media/fondo.jpg);
+}
+.bgWhite{
+	background-color: #1f1616;
+}
+.typerR{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 500;
+	color: #fff;
+}
+h1.typerR{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 800;
+}
+h1{
+	text-align: center;
+}
+#navBar{
+	background-color: gray;
+}
+.bg{
+	background-color: #1f1616;
+}
+@media all and (max-width: 600px){
+	.bg{
+		background-color: #fff;
+	}
+}
